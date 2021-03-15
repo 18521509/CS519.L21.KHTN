@@ -3,8 +3,8 @@ Respository môn học: CS519.L21.KHTN
 
 Giảng viên: 
  <ul>
-    <li>- TS. Lê Đình Duy</li>
-    <li>- TS. Nguyễn Vinh Tiệp</li>
+    <li> TS. Lê Đình Duy</li>
+    <li> TS. Nguyễn Vinh Tiệp</li>
 </ul>
             
 Thành viên:
