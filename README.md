@@ -2,8 +2,11 @@
 Respository môn học: CS519.L21.KHTN
 
 Giảng viên: 
-            - TS. Lê Đình Duy
-            - TS. Nguyễn Vinh Tiệp
+ <ul>
+    <li>- TS. Lê Đình Duy</li>
+    <li>- TS. Nguyễn Vinh Tiệp</li>
+</ul>
+            
 Thành viên:
   - Nguyễn Khánh Toàn - 18521509
   - Nguyễn Trần Trung - 18521555
