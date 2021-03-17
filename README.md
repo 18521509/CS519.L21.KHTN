@@ -21,7 +21,7 @@ Thành viên:
 - [ ] QT 5
 - [ ] QT 6
 - [ ] QT 7
-- [ ] QT 8
+- [x] [QT 8](QT8.md)
 - [ ] QT 9
 - [ ] QT 10
 - [ ] QT 11
